@@ -2,14 +2,16 @@ package com.koushik;
 
 public class calculator
 {
-//bal cher
-	public static void main(String[] args)
-	{
+	
+	
 		
-		public int add(int i,int j)
+		int add(int i,int j)
 		{
 			return i+j;
 		}
-	}
+		int substruct(int a,int b)
+		{
+			return a-b;
+		}	
 
 }
