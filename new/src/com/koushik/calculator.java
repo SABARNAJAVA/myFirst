@@ -12,6 +12,7 @@ public class calculator
 		int substruct(int a,int b)
 		{
 			return a-b;
+			//try
 		}	
 
 }
